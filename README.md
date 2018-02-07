@@ -6,6 +6,6 @@ I tested the code with horse2zebra dataset, it provides similar results to the o
 
 Please note that this is not a **complete** or **standalone** python program to train your CycleGAN models, bug-freenes is not guaranteed yet.
 
-You can start the training your model with `python3 train.py`.
+You can start training your model with `python3 train.py`.
 
 More info will be available soon.
